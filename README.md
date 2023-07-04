@@ -1,2 +1,3 @@
 # gitproject
-Git projects for devops trainees
+Git projects for trainees
+this is for cloud trainees
